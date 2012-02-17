@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- aku bikin ikut suka hati aku je ni untuk eksperimen -->
+<cerita>
+  <cerciter>
+    <author>M. Fauzilkamil Zainuddin</author>
+    <datewritten>Feb 17 2012</datewritten>
+    <keyword>This is my example keyword</keyword>
+  </cerciter>
+  <body>
+    <headline>This was originally written by John Fleck</headline>
+    <contoh>I just retype to learn libxml2.</contoh>
+  </body>
+</cerita>

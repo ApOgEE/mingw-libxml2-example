@@ -1,0 +1,7 @@
+MinGW libxml2 C Programming Example
+-----------------------------------
+
+Author: M. Fauzilkamil Zainuddin <apogee@apogeek.com>
+
+Some of this codes are written by John Fleck in Libxml Tutorial (http://xmlsoft.org/tutorial/)
+I only re-type the sample code and modify accordingly to learn on how to work with libxml2
